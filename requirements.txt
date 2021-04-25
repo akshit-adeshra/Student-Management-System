@@ -1,0 +1,9 @@
+asgiref==3.3.4
+Django==3.2
+mysql-connector-python==8.0.24
+mysqlclient @ file:///C:/Users/Akshit%20Adeshra/Downloads/mysqlclient-1.4.6-cp38-cp38-win32.whl
+protobuf==3.15.8
+python-decouple==3.4
+pytz==2021.1
+six==1.15.0
+sqlparse==0.4.1
